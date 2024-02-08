@@ -27,5 +27,3 @@ The objective of this lab was to create a controlled environment where I could s
 
 
 
-
-<script src="/Threat-Actor-Detection-Lab/assets/js/scale.fix.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
