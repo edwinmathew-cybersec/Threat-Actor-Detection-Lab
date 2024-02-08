@@ -25,5 +25,9 @@ The objective of this lab was to create a controlled environment where I could s
 
 
 
-
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 
