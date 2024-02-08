@@ -1,4 +1,4 @@
-# <align="center">Threat Actor Detection Lab
+# <p align="center">Threat Actor Detection Lab</p>
 
 ## Objective
 
