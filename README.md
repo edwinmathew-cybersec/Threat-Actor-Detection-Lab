@@ -3,7 +3,7 @@
 
 The objective of this lab was to create a controlled environment where I could simulate and detect cyber attacks. For this, two instances of virtual machines were created and used as host and target machines. The logs generated were ingested and analyzed using a SIEM (Security Information and Event Management) tool, providing telemetry that simulated real-world cyberattack scenarios. This hands-on lab allowed me to have a deep understanding of attack patterns, defensive methods and overall network security.
 
-### Skills Learned
+## Skills Learned
 
 - Understanding of SIEM and it's practical application.
 - Analyzing and interpreting network logs.
@@ -11,7 +11,7 @@ The objective of this lab was to create a controlled environment where I could s
 - Knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
-### Tools Used
+## Tools Used
 
 - Splunk - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Sysmon - Monitor and log system activity to the Windows event log.
