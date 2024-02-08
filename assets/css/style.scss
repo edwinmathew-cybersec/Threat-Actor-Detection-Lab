@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header {
+  display: none;
+}
+
 .wrapper {
   width:1200px;
   // left side is 270
