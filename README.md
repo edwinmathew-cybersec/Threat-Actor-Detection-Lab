@@ -1,4 +1,4 @@
-#Threat Actor Detection Lab
+# Threat Actor Detection Lab
 
 ## Objective
 
