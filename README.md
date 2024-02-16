@@ -12,16 +12,19 @@ The objective of this lab was to create a controlled environment where I could s
 - Knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
+## Demonstration Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWE0wywoazo?si=CsxMfD73GjA_1Kbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Steps
+ -
+
 ## Tools Used
 
 - Splunk - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Sysmon - Monitor and log system activity to the Windows event log.
 - Nmap - Network scanning tool used for network exploration and host discovery.
 - Metasploit - Platform that allows to create exploits.
-
-## Demonstration Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWE0wywoazo?si=CsxMfD73GjA_1Kbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
