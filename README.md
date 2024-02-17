@@ -14,7 +14,7 @@ The objective of this lab was to create a controlled environment where I could s
 
 ## Demonstration Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWE0wywoazo?si=CsxMfD73GjA_1Kbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RWE0wywoazo?si=4CL3lZLp9pUFxkKm&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Steps
  -
