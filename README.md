@@ -50,7 +50,8 @@ The objective of this lab was to create a controlled environment where I could s
   
 <img src="https://i.imgur.com/Ii1wVO1.png" width="50%" height="50%">
 
-- Establishing a shell and running some commands in the target machine. Also checking to see if Splunk is configured to ingest Sysmon logs
+- Establishing a shell and running some commands in the target machine
+  Also checking to see if Splunk is configured to ingest Sysmon logs
   
 <img src="https://i.imgur.com/GvnoJKo.png" width="50%" height="50%">
 
@@ -58,7 +59,7 @@ The objective of this lab was to create a controlled environment where I could s
   
 <img src="https://i.imgur.com/3S6Z1m6.png" width="50%" height="50%">
 
-- Using the process_guid to display the command promt actions done by the attacker and creating a table
+- Using the process_guid to display the command promt actions done by the attacker and create a table
   
 <img src="https://i.imgur.com/iuFsEqI.png" width="50%" height="50%">
 
