@@ -21,12 +21,45 @@ The objective of this lab was to create a controlled environment where I could s
 
 ## Demonstration Video
 
-<iframe width="50%" height="50%" src="https://www.youtube-nocookie.com/embed/RWE0wywoazo?modestbranding=1&showinfo=0&fs=0&rel=0;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RWE0wywoazo?modestbranding=1&showinfo=0&fs=0&rel=0;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
 <br/>
 
 ## Steps 
 
-- Launch the utility:
+- Opening 2 instances of virtual machines, one with Kali Linux and the other with Windows 10, and taking note of the IP address
   
 <img src="https://i.imgur.com/HyJTOrt.png" width="50%" height="50%">
+
+- Initiating nmap and scanning the target machine ports
+  
+<img src="https://i.imgur.com/U1epTKg.png" width="50%" height="50%">
+
+- Building a malware using msfvenom
+  
+<img src="https://i.imgur.com/EaZY7Fy.png" width="50%" height="50%">
+
+- Using msfconsole to configure a handler that can listen to the assigned port 
+  
+<img src="https://i.imgur.com/hinFQUE.png" width="50%" height="50%">
+
+- Setting up a http server using python to download the malware
+  
+<img src="https://i.imgur.com/3YDSTlt.png" width="50%" height="50%">
+
+- Executing the malware and checking if the connection is established
+  
+<img src="https://i.imgur.com/Ii1wVO1.png" width="50%" height="50%">
+
+- Establishing a shell and running some commands in the target machine. Also checking to see if Splunk is configured to ingest Sysmon logs
+  
+<img src="https://i.imgur.com/GvnoJKo.png" width="50%" height="50%">
+
+- Querying the malware events in Splunk from the newly created 'endpoint' index
+  
+<img src="https://i.imgur.com/3S6Z1m6.png" width="50%" height="50%">
+
+- Using the process_guid to display the command promt actions done by the attacker and creating a table
+  
+<img src="https://i.imgur.com/iuFsEqI.png" width="50%" height="50%">
+
 
