@@ -26,9 +26,8 @@ The objective of this lab was to create a controlled environment where I could s
 
 ## Steps 
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/HyJTOrt.png" height="80%" width="80%">
+- Launch the utility: <br/>
+<img src="https://i.imgur.com/HyJTOrt.png" width="560" height="315">
 <br />
 <br />
 
