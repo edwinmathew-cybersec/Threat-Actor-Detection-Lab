@@ -2,11 +2,11 @@
 
 ## Objective
 
-The objective of this lab was to create a controlled environment where I could simulate and detect cyber attacks. For this, two instances of virtual machines were created and used as host and target machines. The logs generated were ingested and analyzed using a SIEM (Security Information and Event Management) tool, providing telemetry that simulated real-world cyberattack scenarios. This hands-on lab allowed me to have a deep understanding of attack patterns, defensive methods and overall network security.
+The objective of this lab was to create a controlled environment where I could simulate and detect cyber attacks. For this, two virtual machines were created and used as host and target machines. The logs generated were ingested and analyzed using an SIEM (Security Information and Event Management) tool, providing telemetry that simulated real-world cyberattack scenarios. This hands-on lab gave me a deep understanding of attack patterns, defensive methods, and network security.
 
 ## Skills Learned
 
-- Understanding of SIEM and it's practical application.
+- Understanding of SIEM and its practical application.
 - Analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Knowledge of network protocols and security vulnerabilities.
@@ -30,7 +30,7 @@ The objective of this lab was to create a controlled environment where I could s
   
 <img src="https://i.imgur.com/HyJTOrt.png" width="50%" height="50%">
 
-- Initiating nmap and scanning the target machine ports
+- Initiating Nmap and scanning the target machine ports
   
 <img src="https://i.imgur.com/U1epTKg.png" width="50%" height="50%">
 
@@ -42,7 +42,7 @@ The objective of this lab was to create a controlled environment where I could s
   
 <img src="https://i.imgur.com/hinFQUE.png" width="50%" height="50%">
 
-- Setting up a http server using python to download the malware
+- Setting up a HTTP server using Python to download the malware
   
 <img src="https://i.imgur.com/3YDSTlt.png" width="50%" height="50%">
 
