@@ -14,10 +14,10 @@ The objective of this lab was to create a controlled environment where I could s
 
 ## Tools Used
 
-- Splunk - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Sysmon - Monitor and log system activity to the Windows event log.
-- Nmap - Network scanning tool used for network exploration and host discovery.
-- Metasploit - Platform that allows to create exploits.
+- 𝗦𝗽𝗹𝘂𝗻𝗸 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- 𝗦𝘆𝘀𝗺𝗼𝗻 - Monitor and log system activity to the Windows event log.
+- 𝗡𝗺𝗮𝗽 - Network scanning tool used for network exploration and host discovery.
+- 𝗠𝗲𝘁𝗮𝘀𝗽𝗹𝗼𝗶𝘁 - Platform that allows to create exploits.
 
 ## Demonstration Video
 
