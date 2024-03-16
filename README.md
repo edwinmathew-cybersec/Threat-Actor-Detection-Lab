@@ -2,15 +2,15 @@
 
 ## Objective
 
-The objective of this lab was to create a controlled environment where I could simulate and detect cyber attacks. For this, two virtual machines were created and used as host and target machines. The logs generated were ingested and analyzed using an SIEM (Security Information and Event Management) tool, providing telemetry that simulated real-world cyberattack scenarios. This hands-on lab gave me a deep understanding of attack patterns, defensive methods, and network security.
+The objective of this lab was to establish a controlled environment for simulating and detecting cyber attacks. Two virtual machines were set up, designated as host and target machines respectively. Subsequently, activities within this environment were monitored and logged to emulate real-world cyberattack scenarios. These logs were then ingested and analyzed utilizing a Security Information and Event Management (SIEM) tool, offering comprehensive telemetry for detection and analysis. Through this hands-on experience, I gained valuable insights into attack patterns, defensive strategies, and network security principles.
 
 ## Skills Learned
 
-- Understanding of SIEM and its practical application.
-- Analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Proficiency in utilizing Security Information and Event Management (SIEM) tools, including practical application within controlled environments.
+- Competency in analyzing and interpreting network logs to identify anomalous behavior and potential cyber threats.
+- Skill in generating and recognizing attack signatures and patterns, essential for proactive threat detection and response.
+- Understanding of various network protocols and associated security vulnerabilities, enabling effective defense and mitigation strategies.
+- Development of critical thinking and problem-solving abilities specific to cybersecurity, honed through hands-on experience with simulated cyberattack scenarios.
 
 ## Tools Used
 
