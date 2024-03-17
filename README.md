@@ -61,8 +61,17 @@ The objective of this lab was to establish a controlled environment for simulati
   
 <img src="https://i.imgur.com/3S6Z1m6.png" width="50%" height="50%">
 
-- Using the process_guid to display the command promt actions done by the attacker and create a table
+- Using the process_guid to display the command prompt actions done by the attacker and create a table
   
 <img src="https://i.imgur.com/iuFsEqI.png" width="50%" height="50%">
 
+
+
+
+
+
+
+
+
+[Return To Homepage](https://edwinmathew0012.github.io/Portfolio/)
 
