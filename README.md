@@ -44,7 +44,7 @@ The objective of this lab was to establish a controlled environment for simulati
   
 <img src="https://i.imgur.com/hinFQUE.png" width="50%" height="50%">
 
-- Setting up a HTTP server using Python to download the malware
+- Setting up an HTTP server using Python to download the malware
   
 <img src="https://i.imgur.com/3YDSTlt.png" width="50%" height="50%">
 
