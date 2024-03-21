@@ -18,6 +18,7 @@ The objective of this lab was to establish a controlled environment for simulati
 - 𝗦𝘆𝘀𝗺𝗼𝗻 - Monitor and log system activity to the Windows event log.
 - 𝗡𝗺𝗮𝗽 - Network scanning tool used for network exploration and host discovery.
 - 𝗠𝗲𝘁𝗮𝘀𝗽𝗹𝗼𝗶𝘁 - Platform that allows to create exploits.
+
 <br/>
 
  [//]: # (Math Sans Bold used for the bold heading) 
@@ -25,6 +26,7 @@ The objective of this lab was to establish a controlled environment for simulati
 ## Demonstration Video
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RWE0wywoazo?modestbranding=1&showinfo=0&fs=0&rel=0;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
 <br/>
 
 ## Steps 
